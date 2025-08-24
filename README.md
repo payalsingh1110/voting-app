@@ -13,7 +13,7 @@ It allows users to **create polls, add multiple options, and vote on them in rea
 * Spring Boot
 * Spring Web
 * Spring Data JPA
-* MySQL Database (or H2 for testing)
+* MySQL Database 
 * Lombok
 
 ### Frontend
@@ -129,6 +129,7 @@ cd votingapp
 * **Poll List Page** – View all polls and vote for options.
 
 ---
+
 
 
 
